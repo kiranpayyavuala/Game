@@ -5,7 +5,7 @@
 # Modules - pygame, sys, random, math 
 #
 # Controls - Mouse
-#
+#Developer: kiran
 # -----------------------------------------------------------------------------
 
 import pygame
